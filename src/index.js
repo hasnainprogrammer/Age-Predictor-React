@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <h1>useEffect Hook</h1>
+      <h1>Age Predictor</h1>
       <hr />
       <br />
       <label>Enter your name: </label>
